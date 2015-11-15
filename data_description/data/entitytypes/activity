@@ -1,0 +1,43 @@
+[sw]
+	type = sw.entitytype
+--
+{
+    "default_fields": false,
+    "name": "activity",
+    "description": "",
+    "team_security": false,
+    "fields": {
+        "date": {
+            "datatype": "date",
+            "name": "date",
+            "enabled": true,
+            "edittype": "date"
+        },
+        "description": {
+            "datatype": "string",
+            "name": "description",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "type": {
+            "search_options": null,
+            "editoptions_cols": null,
+            "editoptions_rows": null,
+            "description": null,
+            "searchable_items": null,
+            "default_value": null,
+            "formula_client": null,
+            "formula_out": null,
+            "primary_key": false,
+            "constraints": "[]",
+            "enabled": true,
+            "edittype": "select",
+            "selectable_items": "{\"totalCount\":3,\"enumDescription\":\"sw.enum:activity_type\",\"items\":[{\"colname\":\"value\",\"mapping\":null},{\"colname\":\"label\",\"mapping\":null},{\"colname\":\"tooltip\",\"mapping\":null}]}",
+            "datatype": "string",
+            "name": "type",
+            "form_enabled_expr": null,
+            "formula_in": null
+        }
+    },
+    "enabled": true
+}

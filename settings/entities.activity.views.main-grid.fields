@@ -1,0 +1,25 @@
+[sw]
+	type = sw.setting
+--
+{
+    "fields": [
+        {
+            "tab": "tab1",
+            "displayname": "Type",
+            "name": "type",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Description",
+            "name": "description",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Date",
+            "name": "date",
+            "enabled": true
+        }
+    ]
+}

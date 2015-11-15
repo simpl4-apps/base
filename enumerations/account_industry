@@ -1,0 +1,91 @@
+[sw]
+	type = sw.enum
+--
+{
+    "dataList": [
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "none",
+            "label": "%enum.account_industry.none",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "automotive",
+            "label": "%enum.account_industry.automotive",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "banking",
+            "label": "%enum.account_industry.banking",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "energy",
+            "label": "%enum.account_industry.energy",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "financialService",
+            "label": "%enum.account_industry.financialService",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "insurance",
+            "label": "%enum.account_industry.insurance",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "technology",
+            "label": "%enum.account_industry.technology",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165441200000,
+            "value": "manufacturing",
+            "label": "%enum.account_industry.manufacturing",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "retail",
+            "label": "%enum.account_industry.retail",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "businessService",
+            "label": "%enum.account_industry.businessService",
+            "tooltip": null
+        }
+    ],
+    "fieldList": [
+        {
+            "description": "Wert",
+            "fieldname": "value"
+        },
+        {
+            "description": "Label",
+            "fieldname": "label"
+        },
+        {
+            "description": "Tooltip",
+            "fieldname": "tooltip"
+        }
+    ]
+}

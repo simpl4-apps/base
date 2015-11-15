@@ -1,0 +1,22 @@
+[sw]
+	type = sw.setting
+--
+{
+    "fields": [
+        {
+            "displayname": "Datum",
+            "name": "date",
+            "enabled": true
+        },
+        {
+            "displayname": "Beschreibung",
+            "name": "description",
+            "enabled": true
+        },
+        {
+            "displayname": "Art",
+            "name": "type",
+            "enabled": true
+        }
+    ]
+}

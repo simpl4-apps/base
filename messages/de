@@ -1,0 +1,345 @@
+[sw]
+	type = sw.messageslang
+--
+[
+    {
+        "msgid": "data.address_list",
+        "msgstr": "Adressen"
+    },
+    {
+        "msgid": "data.activity_list",
+        "msgstr": "Aktivitäten"
+    },
+    {
+        "msgid": "data.account_list",
+        "msgstr": "Konten"
+    },
+    {
+        "msgid": "data.account",
+        "msgstr": "Konto"
+    },
+    {
+        "msgid": "data.accounts._team_list",
+        "msgstr": "Teams"
+    },
+    {
+        "msgid": "data.contact.account",
+        "msgstr": "Konto"
+    },
+    {
+        "msgid": "data.contact.address_list",
+        "msgstr": "Adressen"
+    },
+    {
+        "msgid": "data.account.contact_list",
+        "msgstr": "Kontakte"
+    },
+    {
+        "msgid": "data.account.address_list",
+        "msgstr": "Adressen"
+    },
+    {
+        "msgid": "data.account.activity_list",
+        "msgstr": "Aktivitäten"
+    },
+    {
+        "msgid": "data.account.name",
+        "msgstr": "Name"
+    },
+    {
+        "msgid": "data.account.shortname",
+        "msgstr": "Kurzname"
+    },
+    {
+        "msgid": "data.account.annualrevenue",
+        "msgstr": "Jahresumsatz"
+    },
+    {
+        "msgid": "data.account.employee",
+        "msgstr": "Mitarbeiter"
+    },
+    {
+        "msgid": "data.account.officePhone",
+        "msgstr": "Telefon"
+    },
+    {
+        "msgid": "data.account.officeFax",
+        "msgstr": "Fax"
+    },
+    {
+        "msgid": "data.account.website",
+        "msgstr": "Website"
+    },
+    {
+        "msgid": "data.account.email2",
+        "msgstr": "Email"
+    },
+    {
+        "msgid": "data.account.legalform",
+        "msgstr": "Rechtsform"
+    },
+    {
+        "msgid": "data.account.type",
+        "msgstr": "Art"
+    },
+    {
+        "msgid": "data.account.industry",
+        "msgstr": "Industrie"
+    },
+    {
+        "msgid": "data.account.sector",
+        "msgstr": "Sektor"
+    },
+    {
+        "msgid": "data.account._team_list",
+        "msgstr": "Teams"
+    },
+    {
+        "msgid": "data.contact_list",
+        "msgstr": "Kontakte"
+    },
+    {
+        "msgid": "data.contact",
+        "msgstr": "Kontakt"
+    },
+    {
+        "msgid": "data.contact.salutation",
+        "msgstr": "Anrede"
+    },
+    {
+        "msgid": "data.contact.photo",
+        "msgstr": "Foto"
+    },
+    {
+        "msgid": "data.contact.first_name",
+        "msgstr": "Vorname"
+    },
+    {
+        "msgid": "data.contact.last_name",
+        "msgstr": "Nachname"
+    },
+    {
+        "msgid": "data.contact.gender",
+        "msgstr": "Geschlecht"
+    },
+    {
+        "msgid": "data.contact.officePhone",
+        "msgstr": "Telefon"
+    },
+    {
+        "msgid": "data.contact.mobilePhone",
+        "msgstr": "Mobil"
+    },
+    {
+        "msgid": "data.contact.primaryEmail",
+        "msgstr": "Email"
+    },
+    {
+        "msgid": "data.contact.secondaryEmail",
+        "msgstr": "Zweite Email"
+    },
+    {
+        "msgid": "data.contact.birth_date",
+        "msgstr": "Geburtstag"
+    },
+    {
+        "msgid": "data.contact.title",
+        "msgstr": "Titel"
+    },
+    {
+        "msgid": "data.contact._team_list",
+        "msgstr": "Teams"
+    },
+    {
+        "msgid": "data.address",
+        "msgstr": "Adresse"
+    },
+    {
+        "msgid": "data.address.type",
+        "msgstr": "Art"
+    },
+    {
+        "msgid": "data.address.street",
+        "msgstr": "Strasse"
+    },
+    {
+        "msgid": "data.address.postalCode",
+        "msgstr": "PLZ"
+    },
+    {
+        "msgid": "data.address.city",
+        "msgstr": "Stadt"
+    },
+    {
+        "msgid": "data.address.country",
+        "msgstr": "Land"
+    },
+    {
+        "msgid": "data.address.state",
+        "msgstr": "Bundesland"
+    },
+    {
+        "msgid": "data.address._team_list",
+        "msgstr": "Teams"
+    },
+    {
+        "msgid": "data.activity",
+        "msgstr": "Aktivität"
+    },
+    {
+        "msgid": "data.activity.type",
+        "msgstr": "Art"
+    },
+    {
+        "msgid": "data.activity.description",
+        "msgstr": "Beschreibung"
+    },
+    {
+        "msgid": "data.activity.date",
+        "msgstr": "Datum"
+    },
+    {
+        "msgid": "data.activity._team_list",
+        "msgstr": "Teams"
+    },
+    {
+        "msgid": "enum.account_type.prospect",
+        "msgstr": "Aussicht"
+    },
+    {
+        "msgid": "enum.account_type.customer",
+        "msgstr": "Kunde"
+    },
+    {
+        "msgid": "enum.account_type.vendor",
+        "msgstr": "Verkäufer"
+    },
+    {
+        "msgid": "enum.account_type.none",
+        "msgstr": "-"
+    },
+    {
+        "msgid": "enum.account_industry.none",
+        "msgstr": "-"
+    },
+    {
+        "msgid": "enum.account_industry.automotive",
+        "msgstr": "Automobil"
+    },
+    {
+        "msgid": "enum.account_industry.banking",
+        "msgstr": "Bankwesen"
+    },
+    {
+        "msgid": "enum.account_industry.energy",
+        "msgstr": "Energie"
+    },
+    {
+        "msgid": "enum.account_industry.financialService",
+        "msgstr": "Finanzdienstleister"
+    },
+    {
+        "msgid": "enum.account_industry.manufacturing",
+        "msgstr": "Herstellung"
+    },
+    {
+        "msgid": "enum.account_industry.retail",
+        "msgstr": "Einzelhandel"
+    },
+    {
+        "msgid": "enum.account_industry.businessService",
+        "msgstr": "Businessservice"
+    },
+    {
+        "msgid": "enum.account_industry.insurance",
+        "msgstr": "Versicherung"
+    },
+    {
+        "msgid": "enum.account_industry.technology",
+        "msgstr": "Technologie"
+    },
+    {
+        "msgid": "enum.salutation.mr",
+        "msgstr": "Herr"
+    },
+    {
+        "msgid": "enum.salutation.mrs",
+        "msgstr": "Frau"
+    },
+    {
+        "msgid": "enum.sex.female",
+        "msgstr": "weiblich"
+    },
+    {
+        "msgid": "enum.sex.male",
+        "msgstr": "männlich"
+    },
+    {
+        "msgid": "enum.address_type.primary",
+        "msgstr": "Erste Adresse"
+    },
+    {
+        "msgid": "enum.address_type.secondary",
+        "msgstr": "Zweite Adresse"
+    },
+    {
+        "msgid": "enum.address_type.shipping",
+        "msgstr": "Lieferadresse"
+    },
+    {
+        "msgid": "enum.address_type.billing",
+        "msgstr": "Rechnungsadresse"
+    },
+    {
+        "msgid": "enum.address_type.other",
+        "msgstr": "andere"
+    },
+    {
+        "msgid": "enum.activity_type.email",
+        "msgstr": "Email"
+    },
+    {
+        "msgid": "enum.activity_type.phone",
+        "msgstr": "Telefon"
+    },
+    {
+        "msgid": "menu.contacts",
+        "msgstr": "Kontakte"
+    },
+    {
+        "msgid": "menu.accounts",
+        "msgstr": "Konten"
+    },
+    {
+        "msgid": "data.accounts",
+        "msgstr": "Accounts"
+    },
+    {
+        "msgid": "data.product",
+        "msgstr": "Product"
+    },
+    {
+        "msgid": "data.product.ean_code",
+        "msgstr": "Ean_code"
+    },
+    {
+        "msgid": "data.product.price",
+        "msgstr": "Price"
+    },
+    {
+        "msgid": "data.product.description",
+        "msgstr": "Description"
+    },
+    {
+        "msgid": "data.product.name",
+        "msgstr": "Name"
+    },
+    {
+        "msgid": "data.product.image",
+        "msgstr": "Image"
+    },
+    {
+        "msgid": "data.product._team_list",
+        "msgstr": "Teams"
+    }
+]

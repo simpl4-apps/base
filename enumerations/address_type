@@ -1,0 +1,56 @@
+[sw]
+	type = sw.enum
+--
+{
+    "dataList": [
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "shipping",
+            "label": "%enum.address_type.shipping",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "billing",
+            "label": "%enum.address_type.billing",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "other",
+            "label": "%enum.address_type.other",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "primary",
+            "label": "%enum.address_type.primary",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "secondary",
+            "label": "%enum.address_type.secondary",
+            "tooltip": null
+        }
+    ],
+    "fieldList": [
+        {
+            "description": "Wert",
+            "fieldname": "value"
+        },
+        {
+            "description": "Label",
+            "fieldname": "label"
+        },
+        {
+            "description": "Tooltip",
+            "fieldname": "tooltip"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+[sw]
+	type = sw.relations
+--
+[
+    {
+        "rightmodule": "data.contact",
+        "leftfield": null,
+        "leftmodule": "data.account",
+        "rightfield": null,
+        "dependent": true,
+        "relation": "one-to-many"
+    },
+    {
+        "rightmodule": "data.address",
+        "leftfield": null,
+        "leftmodule": "data.contact",
+        "rightfield": null,
+        "dependent": true,
+        "relation": "one-to-many"
+    },
+    {
+        "rightmodule": "data.activity",
+        "leftfield": null,
+        "leftmodule": "data.account",
+        "rightfield": null,
+        "dependent": true,
+        "relation": "one-to-many"
+    },
+    {
+        "rightmodule": "data.address",
+        "leftfield": null,
+        "leftmodule": "data.account",
+        "rightfield": null,
+        "dependent": true,
+        "relation": "one-to-many"
+    }
+]

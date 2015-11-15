@@ -1,0 +1,57 @@
+[sw]
+	type = sw.setting
+--
+{
+    "fields": [
+        {
+            "displayname": "Geburtstag",
+            "name": "birth_date",
+            "enabled": true
+        },
+        {
+            "displayname": "Vorname",
+            "name": "first_name",
+            "enabled": true
+        },
+        {
+            "displayname": "Geschlecht",
+            "name": "gender",
+            "enabled": true
+        },
+        {
+            "displayname": "Email",
+            "name": "primaryEmail",
+            "enabled": true
+        },
+        {
+            "displayname": "Telefon",
+            "name": "officePhone",
+            "enabled": true
+        },
+        {
+            "displayname": "Mobil",
+            "name": "mobilePhone",
+            "enabled": true
+        },
+        {
+            "displayname": "Nachname",
+            "name": "last_name",
+            "enabled": true
+        },
+        {
+            "displayname": "Titel",
+            "name": "title",
+            "enabled": true
+        },
+        {
+            "displayname": "Zweite Email",
+            "name": "secondaryEmail",
+            "enabled": true
+        },
+        {
+            "displayname": "Anrede",
+            "name": "salutation",
+            "enabled": true
+        }
+    ]
+}

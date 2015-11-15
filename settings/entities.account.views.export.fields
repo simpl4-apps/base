@@ -1,0 +1,67 @@
+[sw]
+	type = sw.setting
+--
+{
+    "fields": [
+        {
+            "displayname": "Jahresumsatz",
+            "name": "annualrevenue",
+            "enabled": true
+        },
+        {
+            "displayname": "Email",
+            "name": "email2",
+            "enabled": true
+        },
+        {
+            "displayname": "Mitarbeiter",
+            "name": "employee",
+            "enabled": true
+        },
+        {
+            "displayname": "Industrie",
+            "name": "industry",
+            "enabled": true
+        },
+        {
+            "displayname": "Rechtsform",
+            "name": "legalform",
+            "enabled": true
+        },
+        {
+            "displayname": "Name",
+            "name": "name",
+            "enabled": true
+        },
+        {
+            "displayname": "Fax",
+            "name": "officeFax",
+            "enabled": true
+        },
+        {
+            "displayname": "Telefon",
+            "name": "officePhone",
+            "enabled": true
+        },
+        {
+            "displayname": "Sektor",
+            "name": "sector",
+            "enabled": true
+        },
+        {
+            "displayname": "Kurzname",
+            "name": "shortname",
+            "enabled": true
+        },
+        {
+            "displayname": "Art",
+            "name": "type",
+            "enabled": true
+        },
+        {
+            "displayname": "Website",
+            "name": "website",
+            "enabled": true
+        }
+    ]
+}

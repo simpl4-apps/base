@@ -1,0 +1,37 @@
+[sw]
+	type = sw.setting
+--
+{
+    "fields": [
+        {
+            "displayname": "Stadt",
+            "name": "city",
+            "enabled": true
+        },
+        {
+            "displayname": "Land",
+            "name": "country",
+            "enabled": true
+        },
+        {
+            "displayname": "PLZ",
+            "name": "postalCode",
+            "enabled": true
+        },
+        {
+            "displayname": "Bundesland",
+            "name": "state",
+            "enabled": true
+        },
+        {
+            "displayname": "Strasse",
+            "name": "street",
+            "enabled": true
+        },
+        {
+            "displayname": "Art",
+            "name": "type",
+            "enabled": true
+        }
+    ]
+}

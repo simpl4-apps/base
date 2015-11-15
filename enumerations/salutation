@@ -1,0 +1,35 @@
+[sw]
+	type = sw.enum
+--
+{
+    "dataList": [
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "Herr",
+            "label": "%enum.salutation.mr",
+            "tooltip": "Mr."
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "Frau",
+            "label": "%enum.salutation.mrs",
+            "tooltip": "Ms."
+        }
+    ],
+    "fieldList": [
+        {
+            "description": "Wert",
+            "fieldname": "value"
+        },
+        {
+            "description": "Label",
+            "fieldname": "label"
+        },
+        {
+            "description": "Tooltip",
+            "fieldname": "tooltip"
+        }
+    ]
+}

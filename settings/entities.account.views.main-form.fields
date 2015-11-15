@@ -1,0 +1,79 @@
+[sw]
+	type = sw.setting
+--
+{
+    "fields": [
+        {
+            "tab": "tab1",
+            "displayname": "Name",
+            "name": "name",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Shortname",
+            "name": "shortname",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Annualrevenue",
+            "name": "annualrevenue",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Employee",
+            "name": "employee",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "OfficePhone",
+            "name": "officePhone",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "OfficeFax",
+            "name": "officeFax",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Website",
+            "name": "website",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Email2",
+            "name": "email2",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Legalform",
+            "name": "legalform",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Type",
+            "name": "type",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Industry",
+            "name": "industry",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Sector",
+            "name": "sector",
+            "enabled": true
+        }
+    ]
+}

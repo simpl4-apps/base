@@ -1,0 +1,35 @@
+[sw]
+	type = sw.enum
+--
+{
+    "dataList": [
+        {
+            "invalid": false,
+            "invalid_from": 4165437600000,
+            "value": "MALE",
+            "label": "%enum.sex.male",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165437600000,
+            "value": "FEMALE",
+            "label": "%enum.sex.female",
+            "tooltip": null
+        }
+    ],
+    "fieldList": [
+        {
+            "description": "Wert",
+            "fieldname": "value"
+        },
+        {
+            "description": "Label",
+            "fieldname": "label"
+        },
+        {
+            "description": "Tooltip",
+            "fieldname": "tooltip"
+        }
+    ]
+}

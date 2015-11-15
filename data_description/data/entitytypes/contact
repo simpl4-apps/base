@@ -1,0 +1,98 @@
+[sw]
+	type = sw.entitytype
+--
+{
+    "default_fields": false,
+    "name": "contact",
+    "description": "",
+    "team_security": false,
+    "fields": {
+        "secondaryEmail": {
+            "datatype": "string",
+            "name": "secondaryEmail",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "gender": {
+            "search_options": null,
+            "editoptions_cols": null,
+            "editoptions_rows": null,
+            "description": null,
+            "searchable_items": null,
+            "default_value": null,
+            "formula_client": null,
+            "formula_out": null,
+            "primary_key": false,
+            "constraints": "[]",
+            "enabled": true,
+            "edittype": "select",
+            "selectable_items": "{\"totalCount\":3,\"enumDescription\":\"sw.enum:sex\",\"items\":[{\"colname\":\"value\",\"mapping\":null},{\"colname\":\"label\",\"mapping\":null},{\"colname\":\"tooltip\",\"mapping\":null}]}",
+            "datatype": "string",
+            "name": "gender",
+            "form_enabled_expr": null,
+            "formula_in": null
+        },
+        "officePhone": {
+            "datatype": "string",
+            "name": "officePhone",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "mobilePhone": {
+            "datatype": "string",
+            "name": "mobilePhone",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "birth_date": {
+            "datatype": "date",
+            "name": "birth_date",
+            "enabled": true,
+            "edittype": "date"
+        },
+        "last_name": {
+            "datatype": "string",
+            "name": "last_name",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "salutation": {
+            "search_options": null,
+            "editoptions_cols": null,
+            "editoptions_rows": null,
+            "description": null,
+            "searchable_items": null,
+            "default_value": null,
+            "formula_client": null,
+            "formula_out": null,
+            "primary_key": false,
+            "constraints": "[]",
+            "enabled": true,
+            "edittype": "select",
+            "selectable_items": "{\"totalCount\":3,\"enumDescription\":\"sw.enum:salutation\",\"items\":[{\"colname\":\"value\",\"mapping\":null},{\"colname\":\"label\",\"mapping\":null},{\"colname\":\"tooltip\",\"mapping\":null}]}",
+            "datatype": "string",
+            "name": "salutation",
+            "form_enabled_expr": null,
+            "formula_in": null
+        },
+        "title": {
+            "datatype": "string",
+            "name": "title",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "first_name": {
+            "datatype": "string",
+            "name": "first_name",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "primaryEmail": {
+            "datatype": "string",
+            "name": "primaryEmail",
+            "enabled": true,
+            "edittype": "text"
+        }
+    },
+    "enabled": true
+}

@@ -1,0 +1,9 @@
+- name: menu.accounts
+  icon: folder-shared
+  url: accounts.html
+  hash: accounts
+- name: menu.contacts
+  icon: account-box
+  url: contacts.html
+  hash: contacts
+

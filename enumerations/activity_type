@@ -1,0 +1,35 @@
+[sw]
+	type = sw.enum
+--
+{
+    "dataList": [
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "email",
+            "label": "%enum.activity_type.email",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "phone",
+            "label": "%enum.activity_type.phone",
+            "tooltip": null
+        }
+    ],
+    "fieldList": [
+        {
+            "description": "Wert",
+            "fieldname": "value"
+        },
+        {
+            "description": "Label",
+            "fieldname": "label"
+        },
+        {
+            "description": "Tooltip",
+            "fieldname": "tooltip"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+[sw]
+	type = sw.enum
+--
+{
+    "dataList": [
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "none",
+            "label": "%enum.account_type.none",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "prospect",
+            "label": "%enum.account_type.prospect",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "customer",
+            "label": "%enum.account_type.customer",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165430400000,
+            "value": "vendor",
+            "label": "%enum.account_type.vendor",
+            "tooltip": null
+        }
+    ],
+    "fieldList": [
+        {
+            "description": "Wert",
+            "fieldname": "value"
+        },
+        {
+            "description": "Label",
+            "fieldname": "label"
+        },
+        {
+            "description": "Tooltip",
+            "fieldname": "tooltip"
+        }
+    ]
+}

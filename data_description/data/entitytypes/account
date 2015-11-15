@@ -1,0 +1,123 @@
+[sw]
+	type = sw.entitytype
+--
+{
+    "default_fields": false,
+    "name": "account",
+    "description": "",
+    "team_security": false,
+    "fields": {
+        "email2": {
+            "datatype": "string",
+            "name": "email2",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "website": {
+            "datatype": "string",
+            "name": "website",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "legalform": {
+            "search_options": null,
+            "editoptions_cols": null,
+            "editoptions_rows": null,
+            "description": null,
+            "searchable_items": null,
+            "default_value": null,
+            "formula_client": null,
+            "formula_out": null,
+            "primary_key": false,
+            "constraints": "[]",
+            "enabled": true,
+            "edittype": "select",
+            "selectable_items": "{\"totalCount\":3,\"enumDescription\":\"sw.enum:legalform\",\"items\":[{\"colname\":\"value\",\"mapping\":null},{\"colname\":\"label\",\"mapping\":null},{\"colname\":\"tooltip\",\"mapping\":null}]}",
+            "datatype": "string",
+            "name": "legalform",
+            "form_enabled_expr": null,
+            "formula_in": null
+        },
+        "officePhone": {
+            "datatype": "string",
+            "name": "officePhone",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "annualrevenue": {
+            "datatype": "decimal",
+            "name": "annualrevenue",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "name": {
+            "datatype": "string",
+            "name": "name",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "industry": {
+            "search_options": null,
+            "editoptions_cols": null,
+            "editoptions_rows": null,
+            "description": null,
+            "searchable_items": null,
+            "default_value": null,
+            "formula_client": null,
+            "formula_out": null,
+            "primary_key": false,
+            "constraints": "[]",
+            "enabled": true,
+            "edittype": "select",
+            "selectable_items": "{\"totalCount\":3,\"enumDescription\":\"sw.enum:account_industry\",\"items\":[{\"colname\":\"value\",\"mapping\":null},{\"colname\":\"label\",\"mapping\":null},{\"colname\":\"tooltip\",\"mapping\":null}]}",
+            "datatype": "string",
+            "name": "industry",
+            "form_enabled_expr": null,
+            "formula_in": null
+        },
+        "employee": {
+            "datatype": "number",
+            "name": "employee",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "type": {
+            "search_options": null,
+            "editoptions_cols": null,
+            "editoptions_rows": null,
+            "description": null,
+            "searchable_items": null,
+            "default_value": null,
+            "formula_client": null,
+            "formula_out": null,
+            "primary_key": false,
+            "constraints": "[]",
+            "enabled": true,
+            "edittype": "select",
+            "selectable_items": "{\"totalCount\":3,\"enumDescription\":\"sw.enum:account_type\",\"items\":[{\"colname\":\"value\",\"mapping\":null},{\"colname\":\"label\",\"mapping\":null},{\"colname\":\"tooltip\",\"mapping\":null}]}",
+            "datatype": "string",
+            "name": "type",
+            "form_enabled_expr": null,
+            "formula_in": null
+        },
+        "shortname": {
+            "datatype": "string",
+            "name": "shortname",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "sector": {
+            "datatype": "string",
+            "name": "sector",
+            "enabled": true,
+            "edittype": "text"
+        },
+        "officeFax": {
+            "datatype": "string",
+            "name": "officeFax",
+            "enabled": true,
+            "edittype": "text"
+        }
+    },
+    "enabled": true
+}

@@ -1,0 +1,43 @@
+[sw]
+	type = sw.setting
+--
+{
+    "fields": [
+        {
+            "tab": "tab1",
+            "displayname": "Type",
+            "name": "type",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Street",
+            "name": "street",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "PostalCode",
+            "name": "postalCode",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "City",
+            "name": "city",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Country",
+            "name": "country",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "State",
+            "name": "state",
+            "enabled": true
+        }
+    ]
+}

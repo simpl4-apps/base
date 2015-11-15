@@ -1,0 +1,98 @@
+[sw]
+	type = sw.enum
+--
+{
+    "dataList": [
+        {
+            "invalid": false,
+            "invalid_from": 4165434000000,
+            "value": "GmbH",
+            "label": "GmbH",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165434000000,
+            "value": "GmbH & Co. KG",
+            "label": "GmbH & Co. KG",
+            "tooltip": null
+        },
+        {
+            "invalid": true,
+            "invalid_from": 4165434000000,
+            "value": "GmbH & Co. oHG",
+            "label": "GmbH & Co. oHG",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165434000000,
+            "value": "AG",
+            "label": "AG",
+            "tooltip": null
+        },
+        {
+            "invalid": true,
+            "invalid_from": 4165434000000,
+            "value": "AG & Co. KG",
+            "label": "AG & Co. KG",
+            "tooltip": null
+        },
+        {
+            "invalid": true,
+            "invalid_from": 4165441200000,
+            "value": "AG & Co. KGaA",
+            "label": "AG & Co. KGaA",
+            "tooltip": null
+        },
+        {
+            "invalid": true,
+            "invalid_from": 4165437600000,
+            "value": "KG",
+            "label": "KG",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165434000000,
+            "value": "OHG",
+            "label": "OHG",
+            "tooltip": null
+        },
+        {
+            "invalid": true,
+            "invalid_from": 4165434000000,
+            "value": "KGaA",
+            "label": "KGaA",
+            "tooltip": null
+        },
+        {
+            "invalid": false,
+            "invalid_from": 4165437600000,
+            "value": "Stiftung & Co. KG",
+            "label": "Stiftung & Co KG",
+            "tooltip": null
+        },
+        {
+            "invalid": true,
+            "invalid_from": 4165437600000,
+            "value": "e.V.",
+            "label": "e.V.",
+            "tooltip": null
+        }
+    ],
+    "fieldList": [
+        {
+            "description": "Wert",
+            "fieldname": "value"
+        },
+        {
+            "description": "Label",
+            "fieldname": "label"
+        },
+        {
+            "description": "Tooltip",
+            "fieldname": "tooltip"
+        }
+    ]
+}

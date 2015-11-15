@@ -1,0 +1,67 @@
+[sw]
+	type = sw.setting
+--
+{
+    "fields": [
+        {
+            "tab": "tab1",
+            "displayname": "Salutation",
+            "name": "salutation",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "First_name",
+            "name": "first_name",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Last_name",
+            "name": "last_name",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Gender",
+            "name": "gender",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "OfficePhone",
+            "name": "officePhone",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "MobilePhone",
+            "name": "mobilePhone",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "PrimaryEmail",
+            "name": "primaryEmail",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "SecondaryEmail",
+            "name": "secondaryEmail",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Birth_date",
+            "name": "birth_date",
+            "enabled": true
+        },
+        {
+            "tab": "tab1",
+            "displayname": "Title",
+            "name": "title",
+            "enabled": true
+        }
+    ]
+}
