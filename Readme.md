@@ -8,6 +8,6 @@ https://github.com/simpl4-apps/base.git
 https://github.com/simpl4-apps/base_data.git
 
 
-=== Setting permissions ===
+### Setting permissions 
 
 ![alt text](/web/images/permissions.png?raw=true "Setting permissions")
