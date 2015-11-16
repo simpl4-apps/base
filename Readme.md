@@ -10,4 +10,4 @@ https://github.com/simpl4-apps/base_data.git
 
 === Setting permissions ===
 
-![alt text](/web/images/permissions.svg "Setting permissions")
+![alt text](/web/images/permissions.png?raw=true "Setting permissions")
